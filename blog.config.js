@@ -1,6 +1,6 @@
 const BLOG = {
   title: "Culture Jobs EU",
-  author: "Craig Hart",
+  author: "Culture Jobs EU produced by Donato Spinelli",
   email: "i@craigary.net",
   link: "https://culture-jobs-eu-1hxr.vercel.app/",
   description: "jobs in culture and arts in Europe",
